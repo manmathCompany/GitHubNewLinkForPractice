@@ -6,4 +6,9 @@ public class CalCulator {
 		
 		return a+b;
 	}
+	
+	public long multi(int a,int b) {
+		
+		return a*b;
+	}
 }

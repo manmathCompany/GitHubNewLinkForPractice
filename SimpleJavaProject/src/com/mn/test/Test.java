@@ -10,6 +10,8 @@ public class Test {
 		
 		int result=c.add(10, 20);
 		System.out.println(result);
+		double d=c.div(10, 2);
+		System.out.println(d);
 	}
 	
 	

@@ -12,7 +12,7 @@ public class CalCulator {
 		return a*b;
 	}
 
-Calculator(){
+ public CalCulator(){
 System.out.println("cal constructor");
 }
 

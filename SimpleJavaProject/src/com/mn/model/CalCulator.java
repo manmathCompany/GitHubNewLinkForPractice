@@ -11,6 +11,9 @@ public class CalCulator {
 		
 		return a*b;
 	}
+public int sub(int a,int b){
+return a-b;
+}
 
  public CalCulator(){
 System.out.println("cal constructor");

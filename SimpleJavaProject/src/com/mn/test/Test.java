@@ -11,4 +11,6 @@ public class Test {
 		int result=c.add(10, 20);
 		System.out.println(result);
 	}
+	
+	
 }

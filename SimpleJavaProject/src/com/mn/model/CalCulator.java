@@ -11,4 +11,9 @@ public class CalCulator {
 		
 		return a*b;
 	}
+
+Calculator(){
+System.out.println("cal constructor");
+}
+
 }

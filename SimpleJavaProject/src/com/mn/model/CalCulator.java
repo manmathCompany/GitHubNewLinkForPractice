@@ -15,6 +15,11 @@ public int sub(int a,int b){
 return a-b;
 }
 
+public double div(int a,int b){
+
+return a/b;
+}
+
  public CalCulator(){
 System.out.println("cal constructor");
 }
